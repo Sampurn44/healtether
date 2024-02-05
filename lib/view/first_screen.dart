@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:healtether/routes/routes_config.dart';
 
 class FirstScreen extends StatelessWidget {
   const FirstScreen({super.key});
@@ -9,7 +10,7 @@ class FirstScreen extends StatelessWidget {
       body: Center(
           child: ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/second');
+                Navigator.pushNamed(context, AppRoutes.secondScreen);
               },
               child: Text(
                 "Form",
