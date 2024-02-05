@@ -1,5 +1,3 @@
-import 'dart:js';
-
 import 'package:flutter/material.dart';
 import 'package:healtether/routes/routes_error.dart';
 import 'package:healtether/view/first_screen.dart';
