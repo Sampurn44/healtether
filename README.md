@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Website Logo" width="150" height="300">
+  <img src="logo.jpg" alt="Website Logo" width="300" height="300">
 </p>
 
 # HealTether Flutter Project
